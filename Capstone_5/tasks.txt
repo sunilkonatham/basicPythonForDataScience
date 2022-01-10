@@ -1,0 +1,2 @@
+1. Implement deep learning in KTM data and cement mixing to predict strength.
+2. Answer the qeustions given in the google classroom on capstone-5 project.

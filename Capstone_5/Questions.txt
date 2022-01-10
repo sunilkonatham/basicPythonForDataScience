@@ -1,0 +1,38 @@
+Q1:- For performing sentiment analysis, can you pickup which columns would be useful?
+
+
+
+Q2:-There are three sentiment positive, negative & neutral. What is the average count of each
+sentiment?
+
+
+
+Q3:-What are some of the common negative feedbacks given?
+
+
+
+Q4:-How many different airlines are present in the dataset?
+
+
+
+Q5:-Could you generate the no. of sentiments of each airline from the data?
+
+
+
+Q6:-Which airline has the maximum negative sentiments?
+
+
+
+Q7:-What is the most common negative feedback given?
+
+
+
+Q8:-Is there a specific day where a lot of negative feedbacks were given?
+
+
+
+Q9:-From your analysis, which airline do you feel is doing the best?
+
+
+
+Q10:-Can you draw the neural architecture for performing this analysis?
